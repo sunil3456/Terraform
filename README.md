@@ -1,2 +1,2 @@
 # Terraform
-#publish Terraform work so that someone can learn
+#basic work published because someone can learn
